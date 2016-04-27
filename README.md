@@ -3,10 +3,7 @@ This is an android app which I made from Android Developer Udacity program.
 # Features
 It is still ongoing project, but so far you can:
 * Discover the most popular, or the hightest rated movies
-* Read summary about certain movie            
-and when it is done, you can:
-* Watch trailers
-* Read reviews                                                                                     
+* Read summary about certain movie                                                                                     
 
 # Screens
 ![alt tag] (https://cloud.githubusercontent.com/assets/6977464/14860201/a2e650ae-0ce2-11e6-8fab-33387560463f.png)
