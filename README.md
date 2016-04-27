@@ -6,7 +6,7 @@ It is still ongoing project, but so far you can:
 * Read summary about certain movie            
 and when it is done, you can:
 * Watch trailers
-* Read reviews
+* Read reviews                                                                                     
 as well.                                                                                        
 
 # Screens
