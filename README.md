@@ -7,7 +7,6 @@ It is still ongoing project, but so far you can:
 and when it is done, you can:
 * Watch trailers
 * Read reviews                                                                                     
-as well.                                                                                        
 
 # Screens
 ![alt tag] (https://cloud.githubusercontent.com/assets/6977464/14860201/a2e650ae-0ce2-11e6-8fab-33387560463f.png)
