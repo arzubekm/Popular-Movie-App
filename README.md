@@ -2,7 +2,7 @@
 This is an android app which I made from Android Developer Udacity program.
 
 # Source
-The app was built using [TheMoviedb.org] (https://www.themoviedb.org/documentation/api) API to extract movies. One has to provide his own key to build the app.
+The app was built using [TheMoviedb.org](https://www.themoviedb.org/documentation/api) API to extract movies. One has to provide his own key to build the app.
 
 # Features
 With the app, you can:
