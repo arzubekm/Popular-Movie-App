@@ -1,5 +1,5 @@
 # Popular-Movie-App
-This is an android app which shows movies based on popularity.
+This is an android app which has been made together with [Udacity](https://www.udacity.com/) online course program.
 
 # Source
 The app was built using [TheMoviedb.org](https://www.themoviedb.org/documentation/api) API to extract movies. One has to provide his own key to build the app.
